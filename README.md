@@ -17,8 +17,8 @@
 - **24.05.04** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-04.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 4주차 과제 1,2 ( 컴포넌트 미니퀘스트, 커뮤니티 레이아웃 컴포넌트 구성)
 - **24.05.03** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-03.md) ${\textsf{\color{#ff69b4}딥다이브}}$ ) React 상태관리
 - **24.05.02** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-02.md) ${\textsf{\color{#2e8b57}개념}}$ ) 실행 컨텍스트, 스코프 체이닝, 클로저, 프로토타입, 클래스, 생명주기, React
-- **24.04.30** - ( [🔗]() ${\textsf{\color{orange}알고리즘}}$ ) 트리
-- **24.04.29** - ( [🔗]() ${\textsf{\color{#1e90ff}프로젝트}}$ ) 댓글 수정 구현 JSON 변경 업데이트
+- **24.04.30** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Apr/2024-04-30.md) ${\textsf{\color{orange}알고리즘}}$ ) 트리
+- **24.04.29** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Apr/2024-04-29.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 댓글 수정 구현 JSON 변경 업데이트
 
 ---
 
@@ -26,12 +26,12 @@
 
 커뮤니티 과제 FE/BE서버 분리, 서버코드 이동 및 fetch 코드 업데이트
 
-- **24.04.28** - ( [🔗]() ${\textsf{\color{#1e90ff}프로젝트}}$ ) BE서버 내 JSON과 기존 프론트 페이지 연결 구현, 댓글 수정 클릭 시 댓글창에 value값 출력
-- **24.04.27** - ( [🔗]() ${\textsf{\color{#1e90ff}프로젝트}}$ ) 게시글 목록에서 상세 게시글 이동 구현, 게시글 업로드 구현, 기타 에러 해결
-- **24.04.26** - ( [🔗](https://sen2y-it.tistory.com/21) ${\textsf{\color{#ff69b4}딥다이브}}$ ) 쿠키/세션 방식과 JWT 방식의 인증/인가
-- **24.04.25** - ( [🔗]() ${\textsf{\color{#1e90ff}프로젝트}}$ ) 서버 ( 프론트/백) 분리, MVC 백엔드 구조 반영 폴더구조, FE서버에서 JSON 서버요청 코드 BE 서버로 이동
-- **24.04.24** - ( [🔗]() ${\textsf{\color{#1e90ff}프로젝트}}$ ) git 과제, 우당탕탕 시나리오 + 커뮤니티 리포 kks 조직 리포로 이동
-- **24.04.23** - ( [🔗]() ${\textsf{\color{orange}알고리즘}}$ ) 버블/선택/삽입/병합 정렬
+- **24.04.28** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Apr/2024-04-28.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) BE서버 내 JSON과 기존 프론트 페이지 연결 구현, 댓글 수정 클릭 시 댓글창에 value값 출력
+- **24.04.27** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Apr/2024-04-27.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 게시글 목록에서 상세 게시글 이동 구현, 게시글 업로드 구현, 기타 에러 해결
+- **24.04.26** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Apr/2024-04-26.md) ${\textsf{\color{#ff69b4}딥다이브}}$ ) 쿠키/세션 방식과 JWT 방식의 인증/인가
+- **24.04.25** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Apr/2024-04-25.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 서버 ( 프론트/백) 분리, MVC 백엔드 구조 반영 폴더구조, FE서버에서 JSON 서버요청 코드 BE 서버로 이동
+- **24.04.24** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Apr/2024-04-24.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) git 과제, 우당탕탕 시나리오 + 커뮤니티 리포 kks 조직 리포로 이동
+- **24.04.23** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Apr/2024-04-23.md) ${\textsf{\color{orange}알고리즘}}$ ) 버블/선택/삽입/병합 정렬
 - **24.04.22** - ( [🔗]() ${\textsf{\color{#1e90ff}프로젝트}}$ ) 댓글 추가&프로필 수정 시 json 업데이트 연동, 과제 2-2 완료 ( 지금까지 서버 하나에 FE,BE 한번에 구현)
 
 ---
