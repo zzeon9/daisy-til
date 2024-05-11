@@ -1,4 +1,4 @@
-## ✏️ Today I Learned ( seny-til in KKS)
+## ✏️ Today I Learned ( seny-til in KCS)
 
 ### 🍓 [5월 2주차, 6주차] : 커뮤니티 프로젝트 react
 
