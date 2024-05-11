@@ -4,7 +4,7 @@
 
 - **24.05.11** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-11.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 백서버 내 JSON, /images 내 파일들 .gitignore 추가하여 git 연동 제외, 2주차 과제3 완료 및 정리
 - **24.05.10** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-10.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 회원가입, 게시글 작성/수정/상세 페이지 이미지 연동 구현 및 비밀번호 암호화( bcrypt), 코드 리팩토링
-- **24.05.09** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-09.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) multer-form 서버에 저장된 이미지 프론트에 연동, 포폴 특강
+- **24.05.09** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-09.md) ${\textsf{\color{#BA55D3}특강}}$ ) multer-form 서버에 저장된 이미지 프론트에 연동, 포폴 특강
 - **24.05.08** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-08.md) ${\textsf{\color{#2e8b57}개념}}$ ) React Hook, JS 동등비교, 커스텀 훅, 고차 컴포넌트
 - **24.05.07** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-07.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) multer-form 폼제출을 통해 be 서버 내 폴더에 정적파일 저장하기
 - **24.05.06** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-06.md) ${\textsf{\color{orange}알고리즘}}$ ) 그래프와 bfs, dfs
@@ -69,4 +69,4 @@
 - **24.04.05** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Apr/2024-04-05.md) ${\textsf{\color{#ff69b4}딥다이브}}$ ) CSR/SSR/SSG
 - **24.04.04** - ( [🔗](https://sen2y-it.tistory.com/6) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 1주차 과제 ( 리틀리 제작, 커뮤니티 과제 시작 - HTML, CSS만 사용)
 - **24.04.03** - ( [🔗](https://sen2y-it.tistory.com/5) ${\textsf{\color{#2e8b57}개념}}$ ) OT, Web/HTTP/CSS
-- **24.04.02** - ( [🔗](https://sen2y-it.tistory.com/2) ${\textsf{\color{violet}OT}}$ ) KKS 대면 오리엔테이션
+- **24.04.02** - ( [🔗](https://sen2y-it.tistory.com/2) ${\textsf{\color{#BA55D3}특강}}$ ) KKS 대면 오리엔테이션
