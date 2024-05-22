@@ -2,6 +2,15 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### 
+
+### [5월 셋째주, 7주차] : JAVA
+
+개념학습 : 생성자 , getter & setter 등 JAVA 기본 학습
+프로젝트 : CLI 동기 프로그램 만들기
+<br>
+([📩](https://www.notion.so/JAVA-6-CLI-ecc882b7111349eaa783e5fd5c59192e) ${\textsf{\color{#1e90ff}JAVA CLI 프로그램 만들기 (MBTI 분석)}}$ )
+
 ### [5월 둘째주, 6주차] : React
 
 개념학습 : React 기초 2
