@@ -2,7 +2,10 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### 
+### [5월 넷째주, 8주차] : JAVA
+개념학습 : JAVA (비동기, synchronized,lock 등등)
+프로젝트 : CLI 동기 프로그램 -> 비동기 전환 진행 중
+
 
 ### [5월 셋째주, 7주차] : JAVA
 
