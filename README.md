@@ -2,9 +2,15 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [6월 둘째주, 7주차] : Spring Boot
+### [6월 둘째주, 9주차] : Spring Boot
 개념학습 : 스프링부트 느슨한연결 , 의존성주입 등 공부
 프로젝트 : jdbcTemplate 사용 연습
+
+ ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-10) ${\textsf{\color{#1e90ff}2024-06-10}}$ ) 
+ <br>
+ ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-11) ${\textsf{\color{#1e90ff}2024-06-11}}$ ) 
+ <br>
+ ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-12) ${\textsf{\color{#1e90ff}2024-06-12}}$ ) 
 
 
 ### [6월 첫째주, 8주차] : DataBase
@@ -22,7 +28,7 @@
 개념학습 : 생성자 , getter & setter 등 JAVA 기본 학습
 프로젝트 : CLI 동기 프로그램 만들기
 <br>
-([📩](https://www.notion.so/JAVA-6-CLI-ecc882b7111349eaa783e5fd5c59192e) ${\textsf{\color{#1e90ff}JAVA CLI 프로그램 만들기 (MBTI 분석)}}$ )
+([📩](https://www.notion.so/JAVA-6-CLI-ecc882b7111349eaa783e5fd5c59192e) ${\textsf{\color{#1e90ff}JAVA CLI 프로그램 만들기 (MBTI 분석)}}$)
 
 ### [5월 둘째주, 5주차] : React
 
