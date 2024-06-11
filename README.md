@@ -2,25 +2,35 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [5월 넷째주, 8주차] : JAVA
+### [6월 둘째주, 7주차] : Spring Boot
+개념학습 : 스프링부트 느슨한연결 , 의존성주입 등 공부
+프로젝트 : jdbcTemplate 사용 연습
+
+
+### [6월 첫째주, 8주차] : DataBase
+개념학습 : mySQL 사용법 및 기본 쿼리문 학습
+프로젝트 : mysql - express 연결 진행 중
+
+
+### [5월 넷째주, 7주차] : JAVA
 개념학습 : JAVA (비동기, synchronized,lock 등등)
 프로젝트 : CLI 동기 프로그램 -> 비동기 전환 진행 중
 
 
-### [5월 셋째주, 7주차] : JAVA
+### [5월 셋째주, 6주차] : JAVA
 
 개념학습 : 생성자 , getter & setter 등 JAVA 기본 학습
 프로젝트 : CLI 동기 프로그램 만들기
 <br>
 ([📩](https://www.notion.so/JAVA-6-CLI-ecc882b7111349eaa783e5fd5c59192e) ${\textsf{\color{#1e90ff}JAVA CLI 프로그램 만들기 (MBTI 분석)}}$ )
 
-### [5월 둘째주, 6주차] : React
+### [5월 둘째주, 5주차] : React
 
 개념학습 : React 기초 2
 프로젝트 : express.js 커뮤니티 연동 마무리 / ES6 코드 리팩토링
 
 
-### [5월 첫째주, 5주차] : React
+### [5월 첫째주, 4주차] : React
 
 개념학습 : React 기초
 <br>
@@ -32,7 +42,7 @@
 ([📩](https://github.com/100-hours-a-week/5-alan-lee-community.git) ${\textsf{\color{#1e90ff}Github 링크}}$ )
 
 
-### [4월 넷째주, 4주차] : 웹 응용 학습
+### [4월 넷째주, 3주차] : 웹 응용 학습
 
 개념학습 : 웹 응용
 <br>
@@ -42,7 +52,7 @@
 
 
 
-### [4월 둘째주 / 셋째주 , 2,3주차] : JavaScript / DOM
+### [4월 둘째주 / 셋째주 , 2주차] : JavaScript / DOM
 
 개념학습 : JavaScript / DOM 학습
 <br>
