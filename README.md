@@ -7,13 +7,13 @@
 <br>
 프로젝트 : express - mySQL 연결
 
- ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-10) ${\textsf{\color{#1e90ff}2024-06-10}}$ ) 
+ ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-10.md) ${\textsf{\color{#1e90ff}2024-06-10}}$ ) 
  <br>
- ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-11) ${\textsf{\color{#1e90ff}2024-06-11}}$ ) 
+ ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-11.md) ${\textsf{\color{#1e90ff}2024-06-11}}$ ) 
  <br>
- ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-12) ${\textsf{\color{#1e90ff}2024-06-12}}$ ) 
+ ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-12.md) ${\textsf{\color{#1e90ff}2024-06-12}}$ ) 
  <br>
- ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-13) ${\textsf{\color{#1e90ff}2024-06-13}}$ ) 
+ ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-13.md) ${\textsf{\color{#1e90ff}2024-06-13}}$ ) 
  <br>
 
 ### [6월 첫째주, 8주차] : DataBase
