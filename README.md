@@ -15,7 +15,9 @@
  <br>
  ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-13.md) ${\textsf{\color{#1e90ff}2024-06-13}}$ ) 
  <br>
- ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-13.md) ${\textsf{\color{#1e90ff}2024-06-14}}$ ) 
+ ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-14.md) ${\textsf{\color{#1e90ff}2024-06-14}}$ ) 
+ <br>
+  ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-15.md) ${\textsf{\color{#1e90ff}2024-06-15}}$ ) 
  <br>
 
 ### [6월 첫째주, 8주차] : DataBase
