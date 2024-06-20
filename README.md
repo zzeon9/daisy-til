@@ -12,7 +12,9 @@
  <br>
   ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-18.md) ${\textsf{\color{#1e90ff}2024-06-18}}$ ) 
  <br>
-  ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-19.md) ${\textsf{\color{#1e90ff}2024-06-18}}$ ) 
+  ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-19.md) ${\textsf{\color{#1e90ff}2024-06-19}}$ ) 
+ <br>
+  ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-20.md) ${\textsf{\color{#1e90ff}2024-06-20}}$ ) 
  <br>
 ### [6월 둘째주, 9주차] : Spring Boot
 개념학습 : 스프링부트 느슨한연결 , 의존성주입 등 공부
