@@ -1,6 +1,10 @@
 # til-template
 
-## 오늘 내가 배운 것들(Today I Learned)
+### [6월 넷째주, 11주차] : Spring Boot / AWS
+개념학습 : 
+프로젝트 : Spring Boot - Frontend connect + jdbcTemplate 적용
+<br>
+ ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/June/2024-06-24.md) ${\textsf{\color{#1e90ff}2024-06-24}}$ ) 
 
 ### [6월 셋째주, 10주차] : Spring Boot / AWS
 개념학습 : 스프링부트 / AWS 기본 학습
