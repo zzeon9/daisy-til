@@ -2,23 +2,13 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [4월 첫째주, 1주차] : html, css
+### [10월 4째주, 1주차] : 웹 기본 개념과 git 사용법에 대하여
+24.10.25 git에 대하여 (https://bcsjh.tistory.com/8)
 
-24.04.05 세부 주제 4 작성 (상세 내역 링크)
+24.10.24 미니퀘스트와 과제 시작 (https://bcsjh.tistory.com/7)
 
-24.04.04 세부 주제 3 작성 (상세 내역 링크)
+24.10.23 팀 활동 시작, html, css에 대해서 (https://bcsjh.tistory.com/6)
 
-24.04.03 세부 주제 2 작성 (상세 내역 링크)
+24.10.22 웹 프로그래밍의 기본 (https://bcsjh.tistory.com/4)
 
-24.04.02 세부 주제 1 작성 (상세 내역 링크)
-
-
-### [n월 n째주, n주차] : 간략 주제 작성 
-
-yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+24.10.21 판교 카카오에서 오리엔테이션 (https://bcsjh.tistory.com/2)
